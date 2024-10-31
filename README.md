@@ -1,0 +1,3 @@
+- You scraped GitHub user data by querying the GitHub API for users in Toronto. You extracted fields like login, name, company, location, email, and follower counts, then saved this information into a CSV file named users.csv.
+- The most surprising fact I found from this project and the data collected is that TypeScript is a lot more popular than I thought it was. It was also surprising to me that the GitHub API was so slow
+- An actionable reccomendation that I would give developers after my careful examination and analysis of the data would be to put up all your projects on public repos on github, no matter how small. You never know but it might help someone.
